@@ -22,7 +22,7 @@ I'm an innovative Android Developer based in Kitchener, ON, with a flair for cra
 
 ### My GitHub Repositories
 
-[![CodeWing Infotech Project](https://github-readme-stats.vercel.app/api/pin/?username=keyurmoradiya&repo=codewing-infotech-project&theme=react)](https://github.com/keyurmoradiya/codewing-infotech-project)
+[![CodeWing Infotech Project](https://github-readme-stats.vercel.app/api/pin/?username=keyurmoradiya&repo=codewing-infotech-project&theme=react)](https://github.com/keyur07/EventElevate)
 
 [![Red & White Project](https://github-readme-stats.vercel.app/api/pin/?username=keyurmoradiya&repo=red-white-project&theme=react)](https://github.com/keyurmoradiya/red-white-project)
 
