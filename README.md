@@ -29,10 +29,27 @@ I'm an innovative Android Developer based in Kitchener, ON, with a flair for cra
 
 ### Tech Stack & Tools
 
-- `Kotlin`, `Java`, `Swift`, `C#`, `React Native`
-- `Android Studio`, `VS Code`, `GitHub`, `JIRA`
-- `Firebase`, `SQLite`, `JUnit`, `Espresso`
-- `Jenkins`, `Fastlane`, `AWS`, `Google Cloud Platform`
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396.svg?style=flat&logo=java&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343.svg?style=flat&logo=swift&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB.svg?style=flat&logo=react&logoColor=black)
+
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?style=flat&logo=github&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC.svg?style=flat&logo=jira&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162.svg?style=flat&logo=junit5&logoColor=white)
+![Espresso](https://img.shields.io/badge/-Espresso-2C2C2C.svg?style=flat&logo=espresso&logoColor=white)
+
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white)
+![Fastlane](https://img.shields.io/badge/-Fastlane-00F200.svg?style=flat&logo=fastlane&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+
 
 ---
 
