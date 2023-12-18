@@ -22,7 +22,7 @@ I'm an innovative Android Developer based in Kitchener, ON, with a flair for cra
 
 ### My GitHub Repositories
 
-[![EventElevate Project](https://github-readme-stats.vercel.app/api/pin/?username=keyur07&repo=EventElevate&theme=react)](https://github.com/keyur07/EventElevate) [![Wallpaper Project](https://github-readme-stats.vercel.app/api/pin/?username=keyur07&repo=Wallpaper&theme=react)](https://github.com/keyur07/Wallpaper)
+[![EventElevate Project](https://github-readme-stats.vercel.app/api/pin/?username=keyur07&repo=EventElevate&theme=react)](https://github.com/keyur07/EventElevate)   [![Wallpaper Project](https://github-readme-stats.vercel.app/api/pin/?username=keyur07&repo=Wallpaper&theme=react)](https://github.com/keyur07/Wallpaper)
 
 
 ---
